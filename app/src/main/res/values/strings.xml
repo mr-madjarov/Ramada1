@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ramada1</string>
+    <string name="ramadan_api_key">931230</string>
+    <string name="ramadan_api_secret">taina</string>
+</resources>
